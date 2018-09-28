@@ -1,0 +1,7 @@
+D:\GitHub\Stack\DataStructureStack\DataStructureStack\obj\Debug\DataStructureStack.csprojAssemblyReference.cache
+D:\GitHub\Stack\DataStructureStack\DataStructureStack\obj\Debug\DataStructureStack.csproj.CoreCompileInputs.cache
+D:\GitHub\Stack\DataStructureStack\DataStructureStack\bin\Debug\DataStructureStack.exe.config
+D:\GitHub\Stack\DataStructureStack\DataStructureStack\bin\Debug\DataStructureStack.exe
+D:\GitHub\Stack\DataStructureStack\DataStructureStack\bin\Debug\DataStructureStack.pdb
+D:\GitHub\Stack\DataStructureStack\DataStructureStack\obj\Debug\DataStructureStack.exe
+D:\GitHub\Stack\DataStructureStack\DataStructureStack\obj\Debug\DataStructureStack.pdb
